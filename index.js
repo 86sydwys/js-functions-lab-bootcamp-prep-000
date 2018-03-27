@@ -17,7 +17,7 @@ function happyHolidayTo(string) {
 
 
 function holidayCountdown(string) {
-  console.log(string.toLowerCase())
+  console.log('{$holiday}, ${days}')
 }
 
 
