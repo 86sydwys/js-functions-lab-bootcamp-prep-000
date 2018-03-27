@@ -7,7 +7,7 @@ function happyHolidays(string) {
 function happyHolidaysTo(string) {
   if (string.happyHolidaysTo() === string) {
   return "Happy holidays, you!"
-}
+}}
 
 
 function happyHolidayTo(string) {
