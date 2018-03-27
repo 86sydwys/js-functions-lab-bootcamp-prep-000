@@ -6,7 +6,7 @@ function happyHolidays(string) {
 
 function happyHolidaysTo(string) {
   if (string.happyHolidaysTo() === string) {
-  return 'Happy holidays, you!'
+  return "Happy holidays, you!"
 }
 
 
