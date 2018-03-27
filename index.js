@@ -11,7 +11,8 @@ function happyHolidaysTo(string) {
 
 
 function happyHolidayTo(string) {
-  console.log(string.toUpperCase())
+  console.log('{$holiday},${name}!')
+  
 }
 
 
