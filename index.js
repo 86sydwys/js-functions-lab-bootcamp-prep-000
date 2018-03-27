@@ -5,7 +5,7 @@ function happyHolidays(string) {
 
 
 function happyHolidaysTo(string) {
-  return string.toLowerCase()
+  return 'Happy holidays, ${name}!'
 }
 
 
