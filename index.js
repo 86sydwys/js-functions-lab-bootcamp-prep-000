@@ -1,6 +1,6 @@
 // write your code below!
 function happyHolidays(string) {
-  return string.toUpperCase()
+  return string.toUppe
 }
 function whisper(string) {
   return string.toLowerCase()
