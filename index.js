@@ -5,7 +5,7 @@ function happyHolidays(string) {
 
 
 function happyHolidaysTo(string) {
-  if (string.happyHolidaysTo($name) === string) {
+  if (string.name) === string) {
   return "Happy holidays, you!"
 }}
 
