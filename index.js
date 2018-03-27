@@ -12,7 +12,7 @@ function happyHolidaysTo(string) {
 
 function happyHolidayTo(string) {
   console.log('{$holiday},${name}!')
-  
+  return "Happy Independence Day, you!"
 }
 
 
