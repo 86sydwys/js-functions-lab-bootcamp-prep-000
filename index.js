@@ -1,16 +1,25 @@
 // write your code below!
 function happyHolidays(string) {
-  return string.toUppe
+  return "Happy Holidays"
 }
+
+
 function happyHolidaysTo(string) {
   return string.toLowerCase()
 }
+
+
 function happyHolidayTo(string) {
   console.log(string.toUpperCase())
 }
+
+
 function holidayCountdown(string) {
   console.log(string.toLowerCase())
 }
+
+
+
 
 function sayHiToGrandma(string) {
   if (string.toLowerCase() === string) {
