@@ -2,13 +2,13 @@
 function happyHolidays(string) {
   return string.toUppe
 }
-function whisper(string) {
+function happyHolidaysTo(string) {
   return string.toLowerCase()
 }
-function logShout(string) {
+function happyHolidayTo(string) {
   console.log(string.toUpperCase())
 }
-function logWhisper(string) {
+function holidayCountdown(string) {
   console.log(string.toLowerCase())
 }
 
